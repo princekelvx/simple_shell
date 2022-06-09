@@ -95,7 +95,7 @@ char **_getPATH(char **env)
 }
 
 /**
- * msgerror - prints message not found
+ * msgerror - prints messages not found
  * @name: name of the shell
  * @cycles: number of cycles
  * @command: pointer to tokenized command

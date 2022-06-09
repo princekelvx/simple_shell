@@ -34,7 +34,7 @@ void create_child(char **command, char *name, char **env, int cycles)
 }
 
 /**
- * change_dir - changes working directory
+ * change_dir - changes the working directory
  * @path: the new current working directory
  * Return: 0 on Success, -1 otherwise
  */

@@ -25,7 +25,7 @@ void free_dp(char **command)
 }
 
 /**
- * free_exit - frees all the memory allocated and exit
+ * free_exit - frees all the memory allocated and also exit
  * @command: the pointer to allocated command memory to free
  * Return: Nil
  */
