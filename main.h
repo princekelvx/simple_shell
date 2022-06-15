@@ -1,5 +1,5 @@
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
+#ifndef _MAIN_H_
+#define _MAIN_H_
 #include <sys/wait.h>
 #include <sys/types.h>
 #include <stdio.h>
@@ -32,3 +32,4 @@ void execute_proc(char **cmd);
 char **identify_string(char *parameter);
 void controlC(int sig);
 #endif
+

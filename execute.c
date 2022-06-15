@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * execute_proc - similar to puts in C
  * @cmd: a pointer the integer we want to set to 402
