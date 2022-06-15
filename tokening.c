@@ -43,3 +43,4 @@ char **tokening(char *buffer, const char *s)
 	commands[i] = NULL;
 	return (commands);
 }
+
